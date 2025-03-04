@@ -1,6 +1,7 @@
 # :wave: The Basics of GitHub 
 
 # Hello World for Submission
+Hendre Leigh O. Sagabaen
 
 ## 🤓 Course overview and learning outcomes 
 
